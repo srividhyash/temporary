@@ -1,0 +1,25 @@
+Case Study on marketing analyst team at Bellabeat  for Coursera Data Analytics Course
+Srividhya S H
+05/08/2022
+This case study/publication is part of the capstone project under Google-Coursera’s Data Analytics course. 
+Meanwhile, comments/feedback on this case study are more than welcome and greatly appreciate
+
+Case Study Roadmap 
+Guiding questions :
+● What is the problem you are trying to solve? 
+ I will explore to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices.
+
+● How can your insights drive business decisions?
+. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy
+What is the problem you are trying to solve? 
+To analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices.
+Key tasks 
+1. Identify the business task 
+Analyze and unlock new growth opportunities for the company by  analyzing smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices.
+ One Bellabeat product to apply these insights to in your presentation
+My goal is to look at datasets to find out:
+•	How are customers using other fitness trackers, in their daily life?
+•	What particular features seem to be the most heavily used?
+•	What features do Bellabeat products already have that consumers want, and how do we focus marketing on those aspects?
+
+R programming is used to complete my casestudy.
